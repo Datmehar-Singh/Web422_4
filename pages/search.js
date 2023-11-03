@@ -39,7 +39,7 @@ export default function AdvancedSearch() {
   };
 
   return (
-    <Form onSubmit={handleSubmit(submitForm)}>
+    <Form onSubmit={handleSubmit(submitForm)} className="my-5">
       <Row>
         <Col>
           <Form.Group className="mb-3">

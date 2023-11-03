@@ -1,6 +1,8 @@
 import { Card, Button } from 'react-bootstrap';
 import Link from 'next/link';
 import useSWR from 'swr';
+import Error from 'next/error';
+
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
