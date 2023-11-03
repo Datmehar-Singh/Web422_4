@@ -18,7 +18,7 @@ const Home = () => {
         </Col>
         <Col md={6}>
           <p>
-            The Metropolitan Museum of Art, often referred to as "The Met," is one of the world's largest and most prestigious art museums. Located in Central Park, New York City, it houses a vast collection of art spanning centuries and cultures.
+          The Metropolitan Museum of Art, often referred to as &quot;The Met,&quot; is one of the world's largest and most prestigious art museums. Located in Central Park, New York City, it houses a vast collection of art spanning centuries and cultures.
           </p>
           <p>
             Explore more about The Met on its <a href="https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art" target="_blank" rel="noreferrer">&hellip;</a>
